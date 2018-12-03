@@ -1,2 +1,2 @@
-# try-spring-cloud-function
+# About
 Try Spring Cloud Function
